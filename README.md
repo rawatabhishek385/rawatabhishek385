@@ -1,8 +1,8 @@
-<img src="C:\Users\DELL\OneDrive\Pictures\Saved Pictures\Abhishek.jpg">
-- 👋 Hi, I’m @rawatabhishek385
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<img src="C:\Users\DELL\OneDrive\Pictures\Saved Pictures\Abhishek.jpg" alt="network error">
+- 👋 Hi, I’m @rawatabhishek385<br>
+- 👀 I’m interested in ...<br>
+- 🌱 I’m currently learning ...<br>
+- 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...
 
 <!---
