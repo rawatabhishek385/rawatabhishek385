@@ -24,4 +24,5 @@ Phone No -7668543534</b>
 <p style=color:blue;><b>ACADMIC QUALIFICATION</b><br><b>class X-</b>CBSE BOARD <br><b>class XII</B>CBSE BOARD<br>
 <hr color="brown" height="30" width="3000">
 <p><b>STRENGTH:</b><br>versatile<br>time management<br>punctuals<br>
-
+<hr color="brown" height="30" width="3000">
+<p><b>Skills:</b><br>MY SQL<br>ORACLE<br>ECLIPSE<br>Android stdio<br>basic Html<br>
