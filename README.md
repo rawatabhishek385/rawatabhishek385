@@ -21,8 +21,8 @@ Email-id -rawatabhisehk385@gmail.com<br>
 Phone No -7668543534</b>
 </big>
 <hr color="brown" height="30" width="3000">
-<p style=color:blue;><b>ACADMIC QUALIFICATION</b><br><b>class X-</b>CBSE BOARD <br><b>class XII</B>CBSE BOARD<br>
+<p style=color:blue;><b>ACADMIC QUALIFICATION</b><br><b>class X-</b>CBSE BOARD <br><b>class XII</B>CBSE BOARD<br></p>
 <hr color="brown" height="30" width="3000">
-<p><b>STRENGTH:</b><br>versatile<br>time management<br>punctuals<br>
+<p><b>STRENGTH:</b><br>versatile<br>time management<br>punctuals<br></p>
 <hr color="brown" height="30" width="3000">
-<p><b>Skills:</b><br>MY SQL<br>ORACLE<br>ECLIPSE<br>Android stdio<br>basic Html<br>
+<p><b>Skills:</b><br>MY SQL<br>ORACLE<br>ECLIPSE<br>ANDROID STUDIO<br>BASIC HTML<br></p>
