@@ -1,4 +1,4 @@
-<h1>Abhishek Rawat</h1>
+<h1>Abhishek Rawat😎</h1>
 <section>
 <fieldset>
   <img src="https://www.bing.com/th?id=OIP.2TAGk_SjzyZDSTp7FioKEwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.8&pid=3.1&rm=2" alt="network error"><br>
@@ -7,12 +7,21 @@
 </fieldset>
 </section>
 <section>
-<fieldset>
  <legend>my side</legend>
   - 👋 Hi, I’m @rawatabhishek385<br>
 - 👀 I’m interested in ...<br>
 - 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to collaborate on ...<br>
+- 💞️ I’m looking to prove myself as an asset to the company<br>
 - 📫 How to reach me ...
-  </fieldset>
 </section>
+<hr color="brown" height="30" width="3000">
+<big><b>NAME - Abhishek rawat<br>
+Course - BCA<br>
+Email-id -rawatabhisehk385@gmail.com<br>
+Phone No -7668543534</b>
+</big>
+<hr color="brown" height="30" width="3000">
+<p style=color:blue;><b>ACADMIC QUALIFICATION</b><br><b>class X-</b>CBSE BOARD <br><b>class XII</B>CBSE BOARD<br>
+<hr color="brown" height="30" width="3000">
+<p><b>STRENGTH:</b><br>versatile<br>time management<br>punctuals<br>
+
