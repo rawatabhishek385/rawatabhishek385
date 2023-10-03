@@ -16,7 +16,7 @@
 </section>
 <hr color="brown" height="30" width="3000">
 <big><b>NAME - Abhishek rawat<br>
-Course - BCA<br>
+Course - MCA<br>
 Email-id -rawatabhisehk385@gmail.com<br>
 Phone No -7668543534</b>
 </big>
