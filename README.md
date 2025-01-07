@@ -24,4 +24,4 @@ Phone No -7668543534</b>
 <hr color="brown" height="30" width="3000">
 <p><b>STRENGTH:</b><br>versatile<br>time management<br>punctuals<br></p>
 <hr color="brown" height="30" width="3000">
-<p><b>Skills:</b><br>MY SQL<br>ORACLE<br>ECLIPSE<br>ANDROID STUDIO<br>BASIC HTML<br></p>
+<p><b>Skills:</b><br>MY SQL<br>ORACLE<br>Frontend Developer<br>ANDROID Developer<br><br></p>
