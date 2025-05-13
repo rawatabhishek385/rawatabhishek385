@@ -1,31 +1,64 @@
-<h1>Abhishek Rawat😎</h1>
-<section>
-<fieldset>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4oa8kXsq8AKhJeeDK3mXsNXaMi0MXaVyn6Th-7twJQ&s" alt="network error" border radius="50">
-<br>
-</fieldset>
-</section>
-<section>
- <legend>my side</legend>
-  - 👋 Hi, I’m @rawatabhishek385<br>
-- 👀 I’m interested in ...<br>
-- 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to prove myself as an asset to the company<br>
-- 📫 How to reach me ...
-</section>
-<hr color="brown" height="30" width="3000">
-<big><b>NAME - Abhishek rawat<br>
-Course - MCA<br>
-[![Gmail Badge](https://img.shields.io/badge/-rawatabhishek385@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawatabhishek385@gmail.com)](mailto:rawatabhishek385@gmail.com)
-Phone No -7668543534</b>
-</big>
-<hr color="brown" height="30" width="3000">
-<p style=color:blue;><b>ACADMIC QUALIFICATION</b><br><b>class X-</b>CBSE BOARD <br><b>class XII</B>CBSE BOARD<br></p>
-<hr color="brown" height="30" width="3000">
-<p><b>STRENGTH:</b><br>versatile<br>time management<br>punctuals<br></p>
-<hr color="brown" height="30" width="3000">
-<p><b>Skills:</b><br>MY SQL<br>ORACLE<br>Frontend Developer<br>ANDROID Developer<br><br></p>
+<h1 align="center">Hi there, I'm Abhishek Rawat 😎</h1>
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4oa8kXsq8AKhJeeDK3mXsNXaMi0MXaVyn6Th-7twJQ&s" alt="Abhishek Rawat" width="150" style="border-radius: 50%;">
+</p>
 
+---
 
+### 👋 About Me
+
+- 🔭 I’m currently pursuing **MCA**  
+- 🌱 I’m currently learning **Full Stack Web Development & Android Development**  
+- 👀 I’m interested in **Web Development, App Development, and Databases**  
+- 💡 Always eager to contribute to meaningful projects and prove myself as an asset to the organization  
+- 📫 Reach me at:  
+  [![Gmail Badge](https://img.shields.io/badge/-rawatabhishek385@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rawatabhishek385@gmail.com)  
+  📞 Phone: **7668543534**
+
+---
+
+### 📚 Academic Qualification
+
+- 🏫 **Class X** – CBSE Board  
+- 🏫 **Class XII** – CBSE Board  
+- 🎓 **Master of Computer Applications (MCA)** – Pursuing
+
+---
+
+### 💪 Strengths
+
+- Versatile  
+- Excellent Time Management  
+- Punctual  
+
+---
+
+### 🛠️ Skills
+
+- 💻 Frontend Development (HTML, CSS, JavaScript)  
+- 📱 Android Development (Java)  
+- 🗄️ Database: MySQL, Oracle  
+- ⚙️ Learning: React, Node.js, MongoDB  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawatabhishek385&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatabhishek385&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rawatabhishek385)
+
+---
 
