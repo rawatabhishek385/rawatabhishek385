@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Abhishek Rawat 😎</h1>
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4oa8kXsq8AKhJeeDK3mXsNXaMi0MXaVyn6Th-7twJQ&s" alt="Abhishek Rawat" width="150" style="border-radius: 50%;">
-</p>
 
 ---
 
