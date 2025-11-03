@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-- 🔭 I’m currently pursuing **MCA**  
+- 🔭 I have completed my masters in **MCA**  
 - 🌱 I’m currently learning **Full Stack Web Development & Android Development**  
 - 👀 I’m interested in **Web Development, App Development, and Databases**  
 - 💡 Always eager to contribute to meaningful projects and prove myself as an asset to the organization  
